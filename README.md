@@ -1,4 +1,4 @@
-# Wordpress-Plugin-Starter
+# Wordpress-Starter-Plugin
 Basic structure of a wordpress plugin that can be used as a starter project.
 <br>
 Includes WP Dashboard widget example.
